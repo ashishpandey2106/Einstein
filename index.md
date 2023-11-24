@@ -7,8 +7,8 @@
 
 			embeddedservice_bootstrap.init(
 				'00D5i00000DzdKC',
-				'Web_Channel',
-				'https://fortrea2-dev-ed.develop.my.site.com/ESWWebChannel1700836392481',
+				'New_Web_Site',
+				'https://fortrea2-dev-ed.develop.my.site.com/ESWNewWebSite1700841241770',
 				{
 					scrt2URL: 'https://fortrea2-dev-ed.develop.my.salesforce-scrt.com'
 				}
@@ -18,6 +18,8 @@
 		}
 	};
 </script>
-<script type='text/javascript' src='https://fortrea2-dev-ed.develop.my.site.com/ESWWebChannel1700836392481/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+<script type='text/javascript' src='https://fortrea2-dev-ed.develop.my.site.com/ESWNewWebSite1700841241770/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+
+  
 </body>
 </html>
