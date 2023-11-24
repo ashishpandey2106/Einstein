@@ -1,5 +1,3 @@
-<html>
-<body>
 <script type='text/javascript'>
 	function initEmbeddedMessaging() {
 		try {
@@ -19,7 +17,3 @@
 	};
 </script>
 <script type='text/javascript' src='https://fortrea2-dev-ed.develop.my.site.com/ESWWebChannel1700812848408/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
-
-
-</body>
-</html>
