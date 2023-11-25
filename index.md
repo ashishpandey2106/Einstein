@@ -6,11 +6,11 @@
 			embeddedservice_bootstrap.settings.language = 'en_US'; // For example, enter 'en' or 'en-US'
 
 			embeddedservice_bootstrap.init(
-				'00D5i00000DzdKC',
-				'New_Web_Site',
-				'https://fortrea2-dev-ed.develop.my.site.com/ESWNewWebSite1700841241770',
+				'00DHu000002gqZn',
+				'New_Web_Channel',
+				'https://in1700932705855.my.site.com/ESWNewWebChannel1700936932050',
 				{
-					scrt2URL: 'https://fortrea2-dev-ed.develop.my.salesforce-scrt.com'
+					scrt2URL: 'https://in1700932705855.my.salesforce-scrt.com'
 				}
 			);
 		} catch (err) {
@@ -18,8 +18,7 @@
 		}
 	};
 </script>
-<script type='text/javascript' src='https://fortrea2-dev-ed.develop.my.site.com/ESWNewWebSite1700841241770/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+<script type='text/javascript' src='https://in1700932705855.my.site.com/ESWNewWebChannel1700936932050/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
 
-  
 </body>
 </html>
